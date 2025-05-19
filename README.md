@@ -1,6 +1,3 @@
-### ✅ `README.md` (for your repo)
-
-````markdown
 # Docker Installation Script for Ubuntu
 
 This repository contains a shell script to install Docker Engine on Ubuntu and configure it so that **all normal (non-system) users** can use Docker without requiring `sudo`.
