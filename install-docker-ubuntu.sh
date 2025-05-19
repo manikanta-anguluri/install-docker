@@ -49,5 +49,5 @@ for user in $USERS; do
     sudo usermod -aG docker "$user"
     echo "User '$user' added to docker group."
 done
-
+newgrp docker
 echo "Done. All non-system users can now use Docker without sudo after re-logging in."
