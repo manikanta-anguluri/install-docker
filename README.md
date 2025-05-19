@@ -34,9 +34,3 @@ Adding users to the `docker` group grants them root-level privileges. Only trust
 Feel free to fork or modify as needed.
 
 ---
-
-### ✅ One-liner Command (as shown above)
-
-```bash
-bash <(curl -s https://raw.githubusercontent.com/manikanta-anguluri/install-docker/master/install-docker-ubuntu.sh)
-````
