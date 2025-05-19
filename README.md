@@ -16,7 +16,7 @@ This repository contains a shell script to install Docker Engine on Ubuntu and c
 Run the following command to install Docker on your Ubuntu system:
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/manikanta-anguluri/install-docker/main/install-docker-ubuntu.sh)
+bash <(curl -s https://raw.githubusercontent.com/manikanta-anguluri/install-docker/master/install-docker-ubuntu.sh)
 ````
 
 > 💡 Make sure you're running this as a user with `sudo` privileges.
@@ -33,12 +33,10 @@ Adding users to the `docker` group grants them root-level privileges. Only trust
 
 Feel free to fork or modify as needed.
 
-````
-
 ---
 
 ### ✅ One-liner Command (as shown above)
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/manikanta-anguluri/install-docker/main/install-docker-ubuntu.sh)
+bash <(curl -s https://raw.githubusercontent.com/manikanta-anguluri/install-docker/master/install-docker-ubuntu.sh)
 ````
